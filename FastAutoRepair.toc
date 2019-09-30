@@ -1,0 +1,13 @@
+## Interface: 80205
+## Title:|cffd6266cFast Auto Repair|r
+## Notes: Repairs your items.
+## Author: BloodDragon2580
+## Version: 1.0
+
+## X-License: Apache 2.0
+## X-Category: Miscellaneous
+
+## LoadManagers: AddonLoader
+## X-LoadOn-Always: delayed
+
+FastAutoRepair.lua
