@@ -2,12 +2,10 @@
 ## Title:|cffd6266cFast Auto Repair|r
 ## Notes: Repairs your items.
 ## Author: BloodDragon2580
-## Version: 1.0
+## Version: 1.5
 
-## X-License: Apache 2.0
-## X-Category: Miscellaneous
+embeds.xml
 
-## LoadManagers: AddonLoader
-## X-LoadOn-Always: delayed
+locale\locale.xml
 
 FastAutoRepair.lua
