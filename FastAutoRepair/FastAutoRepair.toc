@@ -1,8 +1,8 @@
-## Interface: 80205
+## Interface: 80300
 ## Title:|cffd6266cFast Auto Repair|r
 ## Notes: Repairs your items.
 ## Author: BloodDragon2580
-## Version: 1.7
+## Version: 2.0
 
 embeds.xml
 
