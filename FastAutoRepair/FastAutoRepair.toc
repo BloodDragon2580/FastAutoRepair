@@ -1,8 +1,8 @@
-## Interface: 90100
+## Interface: 90105
 ## Title:|cffd6266cFast Auto Repair|r
 ## Notes: Repairs your items.
 ## Author: BloodDragon2580
-## Version: 3.4
+## Version: 3.5
 
 embeds.xml
 
