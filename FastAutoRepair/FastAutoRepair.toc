@@ -2,7 +2,7 @@
 ## Title:|cffd6266cFast Auto Repair|r
 ## Notes: Repairs your items.
 ## Author: BloodDragon2580
-## Version: 4.5
+## Version: 4.6
 
 embeds.xml
 
