@@ -1,8 +1,8 @@
-## Interface: 100007
+## Interface: 100100
 ## Title:|cffd6266cFast Auto Repair|r
 ## Notes: Repairs your items.
 ## Author: BloodDragon2580
-## Version: 5.1
+## Version: 5.2
 
 embeds.xml
 
