@@ -1,8 +1,8 @@
-## Interface: 100207
+## Interface: 110002
 ## Title:|cffd6266cFastAutoRepair|r
 ## Notes: Repairs your items.
 ## Author: BloodDragon2580
-## Version: 6.1
+## Version: 6.3
 ## IconTexture: Interface\AddOns\FastAutoRepair\Media\Texture\logo
 
 embeds.xml
