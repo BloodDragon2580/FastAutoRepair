@@ -1,9 +1,17 @@
-It's a simple addon,
-nothing has to be configured on this addon.
+Deutsch:
 
-If an NPC is able to repair your armor,
-the addon automatically does it for you.
-It's not the guild's gold, it's your gold.
+Addon: FastAutoRepair
 
+Beschreibung: FastAutoRepair ist ein einfaches und effizientes Addon für World of Warcraft, das dir hilft, deine Ausrüstung automatisch bei einem Händler zu reparieren. Das Addon überprüft, ob du dich bei einem Händler befindest und ob eine Reparatur möglich ist. Wenn du genügend Gold hast, um die Reparaturkosten zu decken, wird deine gesamte Ausrüstung automatisch repariert. Außerdem wird der Betrag der Reparaturkosten im Chatfenster angezeigt.
 
-Download Count https://hanadigital.github.io/grev/?user=BloodDragon2580&repo=FastAutoRepair
+Funktionen:
+
+Automatische Reparatur deiner Ausrüstung bei einem Händler.
+Überprüft, ob du genügend Gold für die Reparatur hast.
+Zeigt die Reparaturkosten im Chatfenster an.
+
+English:
+
+Addon: FastAutoRepair
+
+Description: FastAutoRepair is a simple and efficient addon for World of Warcraft that helps you automatically repair your gear at a merchant. The addon checks if you are at a merchant and if repair is possible. If you have enough gold to cover the repair costs, your entire equipment will be repaired automatically. Additionally, the repair cost amount is displayed in the chat frame.
