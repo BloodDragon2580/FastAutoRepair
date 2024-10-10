@@ -2,7 +2,7 @@
 ## Title:|cffd6266cFastAutoRepair|r
 ## Notes: Repairs your items.
 ## Author: BloodDragon2580
-## Version: 8.3
+## Version: 8.4
 ## IconTexture: Interface\AddOns\FastAutoRepair\Media\Texture\logo
 
 embeds.xml
