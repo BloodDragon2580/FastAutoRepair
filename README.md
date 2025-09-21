@@ -1,17 +1,31 @@
-Deutsch:
+# 🛠️ Fast Auto Repair
+# English
 
-Addon: FastAutoRepair
+A **lightweight World of Warcraft addon** that automatically repairs your gear whenever you visit a merchant that can repair items.  
+Perfect for players who want to save clicks and never forget to repair before raids or Mythic+ dungeons. ⚡
 
-Beschreibung: FastAutoRepair ist ein einfaches und effizientes Addon für World of Warcraft, das dir hilft, deine Ausrüstung automatisch bei einem Händler zu reparieren. Das Addon überprüft, ob du dich bei einem Händler befindest und ob eine Reparatur möglich ist. Wenn du genügend Gold hast, um die Reparaturkosten zu decken, wird deine gesamte Ausrüstung automatisch repariert. Außerdem wird der Betrag der Reparaturkosten im Chatfenster angezeigt.
+---
 
-Funktionen:
+## ✨ Features
 
-Automatische Reparatur deiner Ausrüstung bei einem Händler.
-Überprüft, ob du genügend Gold für die Reparatur hast.
-Zeigt die Reparaturkosten im Chatfenster an.
+✅ **Automatic gear repair** when talking to a repair-capable merchant  
+✅ **No configuration required** – just install and play  
+✅ **Cost display** in chat after each repair  
+✅ **Lightweight & efficient** – minimal memory usage  
 
-English:
+---
 
-Addon: FastAutoRepair
+# 🛠️ Fast Auto Repair
+# Deutsch
 
-Description: FastAutoRepair is a simple and efficient addon for World of Warcraft that helps you automatically repair your gear at a merchant. The addon checks if you are at a merchant and if repair is possible. If you have enough gold to cover the repair costs, your entire equipment will be repaired automatically. Additionally, the repair cost amount is displayed in the chat frame.
+Ein **leichtgewichtiges World of Warcraft Addon**, das deine Ausrüstung automatisch repariert, sobald du einen Händler mit Reparaturmöglichkeit besuchst.  
+Perfekt für Spieler:innen, die keine Klicks verschwenden und nie wieder unvorbereitet in einen Raid oder Mythic+ gehen wollen. ⚡
+
+---
+
+## ✨ Features
+
+✅ **Automatische Reparatur** deiner Ausrüstung bei jedem Händler mit Reparaturfunktion  
+✅ **Keine Konfiguration nötig** – einfach installieren und loslegen  
+✅ **Kostenanzeige** im Chat nach jeder Reparatur  
+✅ **Sehr ressourcenschonend** – minimale Speicher- und CPU-Nutzung  
